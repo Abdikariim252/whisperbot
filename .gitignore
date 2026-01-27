@@ -1,0 +1,4 @@
+*.o
+whisperbot
+apikey.txt
+*.sqlite
